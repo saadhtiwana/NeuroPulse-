@@ -65,7 +65,8 @@ npm run dev
 
 ## 🖼 Preview
 
-neuropulse.jpg
+<img src="/neuropulse.jpg" alt="NeuroPulse Preview" />
+
 
 ---
 
